@@ -8,3 +8,5 @@ This is especially useful when watching long youtube tutorial videos ( that's wh
 you can simply exit the browser and shut down the computer at any time and when you goto youtube the next time you're redirected to the video which starts playing from the exact time you exited the browser.
 
 You can also turn this ON / OFF as you require.
+
+## currently supported for CHROME and MICROSOFT EDGE
