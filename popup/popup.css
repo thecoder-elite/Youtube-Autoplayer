@@ -1,0 +1,35 @@
+body{
+    width: 300px;
+    height: 120px;
+    padding: 0 10px;
+    font-family: 'Roboto', sans-serif;
+}
+#title{
+    margin-bottom: 5px; 
+    font-weight: 600; 
+    font-size: 20px;
+    color: rgb(58, 56, 56);
+}
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.content p{
+    font-size: 15px;
+    margin-right: 60px;
+}
+
+#switch{
+    width: 80px;
+    height: 40px;
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    outline: solid;
+    cursor: pointer;
+    margin: 0;
+    padding: 0;
+}
