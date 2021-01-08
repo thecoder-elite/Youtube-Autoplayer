@@ -9,4 +9,4 @@ you can simply exit the browser and shut down the computer at any time and when 
 
 You can also turn this ON / OFF as you require.
 
-## currently supported for CHROME and MICROSOFT EDGE
+### currently supported for GOOGLE CHROME and MICROSOFT EDGE
