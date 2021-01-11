@@ -10,8 +10,4 @@ you can simply exit the browser and shut down the computer at any time and when 
 You can also turn this ON / OFF as you require.
 
 ### currently supported for GOOGLE CHROME and MICROSOFT EDGE
-
-
-
-## To use the extension download this file :- [Extension File](https://github.com/thecoder-elite/Youtube-Autoplayer/blob/main/Web%20Extensions.crx)
-## Or get it from Microsoft Store :- [Microsoft Store Link](https://github.com/thecoder-elite/Youtube-Autoplayer/blob/main/Web%20Extensions.crx)
+## Get it from the Microsoft Store :- [Microsoft Store Link](https://github.com/thecoder-elite/Youtube-Autoplayer/blob/main/Web%20Extensions.crx)
