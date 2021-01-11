@@ -14,3 +14,4 @@ You can also turn this ON / OFF as you require.
 
 
 # To use the extension download this file :- [Extension File](https://github.com/thecoder-elite/Youtube-Autoplayer/blob/main/Web%20Extensions.crx)
+# Or get it from Microsoft Store :- [Microsoft Store Link]([Extension File](https://github.com/thecoder-elite/Youtube-Autoplayer/blob/main/Web%20Extensions.crx))
