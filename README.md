@@ -11,3 +11,4 @@ You can also turn this ON / OFF as you require.
 
 ### currently supported for GOOGLE CHROME and MICROSOFT EDGE
 ## Get it from the Microsoft Store :- [Microsoft Store Link](https://microsoftedge.microsoft.com/addons/detail/ojccgbnddompclhanijminmemionfofg)
+## For chrome browser download the crx file : [CRX FILE](https://github.com/thecoder-elite/Youtube-Autoplayer-Web-Extension/blob/main/Web%20Extensions.crx)
