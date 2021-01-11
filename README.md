@@ -16,5 +16,5 @@ Get it from the Microsoft Store :- [Microsoft Store Link](https://microsoftedge.
 ### For Google Chrome:
 Steps to use extension in chrome browser:
 1. Download the CRX FILE ([get it here](https://github.com/thecoder-elite/Youtube-Autoplayer-Web-Extension/blob/main/Web%20Extensions.crx)).
-2. navigate to [chrome://extensions/](chrome://extensions/) Now drag and drop the downloaded extension (CRX FILE) from your file manager anywhere onto the extensions page in Chrome.
+2. navigate to chrome://extensions/ Now drag and drop the downloaded extension (CRX FILE) from your file manager anywhere onto the extensions page in Chrome.
 3. Done! The extension is installed and you are ready to go
